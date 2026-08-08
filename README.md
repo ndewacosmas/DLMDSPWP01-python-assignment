@@ -1,7 +1,7 @@
 International University of Applied Sciences(iU)
 Course Name: DLMDSPWP01 – Programming with Python
 Course of Study: Master of Data Management
-Author’s name: Cosmas Kyovecho : May, 2026
+Author’s name: Cosmas Kyovecho : August, 2026
 Matriculation number:    3220417,         Tutor’s name:    Alkubaty, Rami
 1. What Was the Assignment About?
 Given three CSV data files and asked to write a Python program that:
@@ -139,4 +139,4 @@ We wrote a Python program that finds which 4 out of 50 mathematical functions be
 
 https://colab.research.google.com/drive/1ySoo9evVf7myFUqaGeSGqAk72DbK4doo?usp=sharing
 https://colab.research.google.com/drive/1ySoo9evVf7myFUqaGeSGqAk72DbK4doo#scrollTo=HHz3g6uQuI3f
-https://github.com/ndewacosmas/DLMDSPWP01-python-assignment/blob/main/DLMDSPWP01.ipynb
+https://github.com/ndewacosmas/DLMDSPWP01-python-assignment/edit/main/README.md
